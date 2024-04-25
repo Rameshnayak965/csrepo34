@@ -3,8 +3,7 @@ package ticket;
 import java.awt.EventQueue;
 //hfgukf
 //jhgh
-//kjhgfuidf
-//hkvdgfuigghdfjkghouiyjog
+
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
